@@ -1,2 +1,3 @@
 # LearningJS
-On this branch I will put a list of issues that I want to deal with.
+
+A repository devoted to learning programming.
