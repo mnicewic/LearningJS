@@ -1,2 +1,6 @@
 # LearningJS
-Improving skills
+______________________________________________________________________
+# TASKS
+
+On this branch I will place the content of tasks with their solution.
+_______________________________________________________________________
